@@ -1,5 +1,6 @@
 #### twitter_data_pipeline.py
 
+- Note: script will not run without adding a bearer token for access to the twitter api.
 - This file accesses the twitter endpoint
 - Does data processing to clean up the data and add a date
 - Stores it all into free cloud postgreSQL table from Heroku
